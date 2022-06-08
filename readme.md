@@ -19,7 +19,7 @@
 
 ## 🤝🏻&nbsp;Follow Me
 
-<a href="kngrgm@gmail.com"><img src="https://img.shields.io/badge/E--mail-kngrgm%40gmail.com-red"/></a>
+<a href="mailto:kngrgm@gmail.com"><img src="https://img.shields.io/badge/E--mail-kngrgm%40gmail.com-red"/></a>
 <a href="http://trovo.live/rodkingroo"><img src="https://img.shields.io/badge/Trovo-%40RodKingroo-success"/></a>
 <a href="https://t.me/rodkingroo"><img src="https://img.shields.io/badge/Telegram-%40RodKingroo-informational"/></a>
 <a href="https://youtube.com/c/EdshiroKangaroo"><img src="https://img.shields.io/badge/YouTube-%40EdshiroKingroo-red"/></a>
