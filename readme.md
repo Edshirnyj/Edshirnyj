@@ -3,7 +3,7 @@
 ## 🤓&nbsp;About Me
 💫&nbsp;I like to study different technologies. In my free time, I work on the development of several projects related to video games.\
 🎓&nbsp;At the moment I am a student of SibADI University in the Faculty of Information Systems in Management, specializing in Information security of automated systems.\
-💥&nbsp;At the moment I am planning to create a novel engine for a fan remastered original "Tsukihime" and I am also at the stage of studying the creation of a 3D engine for a motosport arcade.\
+💥&nbsp;At the moment I am planning to create a novel engine for a fan remastered original "Tsukihime"\
 😎&nbsp;I have the ability to work with video and graphic editors. I have an understanding in creating musical beats.\
 💭&nbsp;I understand languages such as: Russian, Ukrainian, English, and Esperanto.\
 😜&nbsp;Do you want to chat? I invite you to my Telegram [chat](https://t.me/sinergyOutskirts) :^)
