@@ -1,5 +1,5 @@
 <h2 align="Center">✌️Hello Guest! I'm Rod (aka. Edshiro)! </h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rodkingroo)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="left" height="256em" src="https://github-profile-trophy.vercel.app/?username=rodkingroo" alt="rodkingroo" width="1000" height="1000" />
 
 ## 💪&nbsp;My Skills
 <p align="left">
