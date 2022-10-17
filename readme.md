@@ -1,5 +1,5 @@
 <h2 align="Center">✌️Hello Guest! I'm Rod (aka. Edshiro)! </h2>
-<img align="left" height="256em" src="https://github-profile-trophy.vercel.app/?username=rodkingroo" alt="rodkingroo" width="1000" height="1000" />
+
 
 ## 💪&nbsp;My Skills
 <p align="left">
@@ -9,6 +9,9 @@
 </p>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodKingroo&layout=compact&langs_count=8" alt="rodkingroo" />
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodKingroo&show_icons=true" alt="rodkingroo" />
+
+## TROPHY
+<img align="left" height="256em" src="https://github-profile-trophy.vercel.app/?username=rodkingroo" alt="rodkingroo" width="1000" height="1000" />
 
 ## 🤝🏻&nbsp;Follow Me
 
