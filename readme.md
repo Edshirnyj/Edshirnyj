@@ -40,7 +40,10 @@ You can connect with me on:
 
 <div align="center">
   <a href="mailto:kngrgm@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="mailto:edshirokingroo@yandex.ru">
+  <img src="https://img.shields.io/badge/-Yandex.Mail-red?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex.Mail">
   </a>
   <a href="https://twitch.tv/rodkingroo">
     <img src="https://img.shields.io/badge/-Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
