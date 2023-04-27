@@ -1,10 +1,19 @@
 <h2 align="Center">✌️Hello Guest! I'm Rod (aka. Edshiro)! </h2>
 
+<div align="center">
+  <img src="https://media.tenor.com/mMgbQnYuYksAAAAC/neco-arc-nodding.gif" alt="Neko Arc Nodding">
+</div>
+
 ## 👋 About Me
-A software developer with experience in C#, C++, Python and more. I have a passion for learning new technologies and building cool projects. \
-Since my school days, I have been a fan of programming and mathematical logic. Since childhood, I had a preference for solving mathematical problems logically. I believe that logical problem-solving is the fastest way to find a solution. \
-I have a good understanding of analytics. I can easily analyze any given task and can come up with a plan to automate any project and eliminate unnecessary elements. \
-I am an extremely stress-resistant person and do not show my weakness easily. I am not impulsive and consider myself a very serious and responsible person. I follow the given task strictly, as I believe that a job well done is a job that is done 100%.
+As a software developer, I possess a wide range of technical skills that allow me to build robust and efficient applications that meet the needs of my clients. I have a passion for learning new technologies and building cool projects, and I have experience working in a variety of roles, including DevOps Engineer, System Administrator, Programmer, Frontend Developer, Backend Developer, and video game developer.
+
+I am highly proficient in languages such as C#, C++, Python, TypeScript and SQL, and have experience using framework .NET. I am also skilled in front-end development, with a strong understanding of HTML and CSS, as well as experience working with popular front-end libraries such as Bootstrap.
+
+In addition to my technical skills, I have a strong understanding of analytics and can easily analyze any given task to come up with a plan to automate any project and eliminate unnecessary elements. I am an extremely stress-resistant person and do not show my weakness easily, making me well-suited for high-pressure environments. I am not impulsive and consider myself a very serious and responsible person, always following the given task strictly, as I believe that a job well done is a job that is done 100%.
+
+Furthermore, I have experience and knowledge in working with various types of graphs such as ER diagrams, BPMN, and IDEF0. I am able to use these tools to model complex systems and analyze data flows. I also have proficiency in using Loginom, a powerful data analysis and visualization tool to extract insights from large datasets and create custom reports and dashboards.
+
+Overall, my technical expertise, analytical skills, and experience with data visualization tools make me well-suited for a variety of software development roles, particularly those that involve complex data analysis and visualization. I am also particularly interested in video game development and have experience working on game projects in the past.
 
 ## 💪 My Skills
 <p align="left">
@@ -25,12 +34,8 @@ I am an extremely stress-resistant person and do not show my weakness easily. I 
 
 <br />
 
-## 🏆 My GitHub Profile Trophy
-<img align="left" height="256em" src="https://github-profile-trophy.vercel.app/?username=rodkingroo&theme=white" alt="rodkingroo" /> 
-<br />
 
 ## 🤝🏻 Follow Me
-
 You can connect with me on:
 
 <div align="center">
