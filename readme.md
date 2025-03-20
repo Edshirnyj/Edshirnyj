@@ -28,9 +28,9 @@ Overall, my technical expertise, analytical skills, and experience with data vis
 
 ## 📊 My GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodKingroo&theme=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodKingroo&theme=white)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodKingroo&theme=white)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edshirnyj&theme=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edshirnyj&theme=white)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edshirnyj&theme=white)
 
 <br />
 
